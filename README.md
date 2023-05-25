@@ -1,6 +1,6 @@
 # Aplicacion Consulta de Empleados
 
-es una aplicacion capaz consltar un dos enpoints para obtener empleados y calcularles el sueldo
+Es una aplicacion capaz consltar un dos enpoints para obtener empleados y calcularles el sueldo
 
 ## Comenzando 🚀
 
